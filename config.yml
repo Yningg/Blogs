@@ -1,6 +1,6 @@
-baseURL: "https://nejckorasa.github.io"
+baseURL: "https://Yningg/Blogs"
 languageCode: en-us
-title: Nejc Korasa
+title: Yining's Blog
 theme: PaperMod
 
 pagination:
@@ -19,12 +19,12 @@ minify:
 
 params:
   env: production
-  title: Nejc Korasa
-  description: "Nejc Korasa"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Nejc Korasa
-  images: ["https://avatars.githubusercontent.com/nejckorasa"]
-  DateFormat: "January 2, 2006"
+  title: Yining's Blog
+  description: "Yining's Blog"
+  keywords: [Blog, PaperMod]
+  author: Yining's Blog
+  images: ["https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png"]
+  DateFormat: "May 22, 2025"
   defaultTheme: auto
   disableThemeToggle: false
 
@@ -54,24 +54,15 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Code and Software Musings"
+    Title: "Not just about research"
     Content: |
-      Insights and tangents from my 11+ years in software development. Connect with me on [LinkedIn](https://www.linkedin.com/in/nejckorasa) to see my professional journey.
+      Notes related to my research, reading, and more.
 
   socialIcons:
     - name: linkedin
-      url: "https://www.linkedin.com/in/nejckorasa"
+      url: "https://www.linkedin.com/in/yining-zhao-12916130a"
     - name: github
-      url: "https://github.com/nejckorasa"
-    - name: x
-      url: "https://x.com/nejckorasa"
-    - name: dev
-      url: "https://dev.to/nejckorasa"
-    - name: medium
-      url: "https://medium.com/@nejckorasa"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/4420094/nejckorasa"
-    - name: rss
+      url: "https://github.com/Yningg"
 
   cover:
     hidden: true # hide everywhere but not in structured data

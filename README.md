@@ -1,1 +1,1 @@
-This is just source code, you want to go [here](https://nejckorasa.github.io).
+Acknowledge to [Nejc Korasa](https://github.com/nejckorasa) for the original template.
