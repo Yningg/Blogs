@@ -21,8 +21,8 @@ params:
   env: production
   title: Yining's Blog
   description: "Yining's Blog"
-  keywords: [Blog, PaperMod]
-  author: Yining's Blog
+  keywords: [Blog]
+  author: Yining
   images: ["https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png"]
   DateFormat: "May 22, 2025"
   defaultTheme: auto
