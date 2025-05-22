@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>S3 on Yining&#39;s Blog</title>
+    <link>https://yningg.github.io/Blogs/tags/s3/</link>
+    <description>Recent content in S3 on Yining&#39;s Blog</description>
+    <image>
+      <title>Yining&#39;s Blog</title>
+      <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
+      <link>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yningg.github.io/Blogs/tags/s3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stream unzip files in S3 with Java</title>
+      <link>https://yningg.github.io/Blogs/posts/s3-unzip/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/posts/s3-unzip/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been spending a lot of time with AWS S3 recently building data pipelines and have encountered a surprisingly non-trivial challenge of unzipping files in an S3 bucket.
+A few minutes with Google and StackOverflow made it clear many others have faced the same issue.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll explain a few options to handle the unzipping as well as the end solution which has led me to build &lt;a href=&#34;https://github.com/nejckorasa/s3-stream-unzip&#34;&gt;nejckorasa/s3-stream-unzip&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To sum up:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;there is no support to unzip files in S3 in-line,&lt;/li&gt;
+&lt;li&gt;there also is no unzip built-in api available in AWS SDK.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In order to unzip you therefore need to download the files from S3, unzip and upload decompressed files back.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

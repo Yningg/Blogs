@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yningg.github.io/Blogs/sitemap.xml
