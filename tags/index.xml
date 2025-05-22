@@ -11,125 +11,27 @@
     </image>
     <generator>Hugo -- 0.147.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yningg.github.io/Blogs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design Patterns</title>
-      <link>https://yningg.github.io/Blogs/tags/design-patterns/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/design-patterns/</guid>
+      <title>Community Search</title>
+      <link>https://yningg.github.io/Blogs/tags/community-search/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/tags/community-search/</guid>
       <description></description>
     </item>
     <item>
-      <title>DOP</title>
-      <link>https://yningg.github.io/Blogs/tags/dop/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/dop/</guid>
+      <title>Graph Theory</title>
+      <link>https://yningg.github.io/Blogs/tags/graph-theory/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/tags/graph-theory/</guid>
       <description></description>
     </item>
     <item>
-      <title>Java</title>
-      <link>https://yningg.github.io/Blogs/tags/java/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/java/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Object Oriented Programming</title>
-      <link>https://yningg.github.io/Blogs/tags/object-oriented-programming/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/object-oriented-programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>OOO</title>
-      <link>https://yningg.github.io/Blogs/tags/ooo/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/ooo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pattern Matching</title>
-      <link>https://yningg.github.io/Blogs/tags/pattern-matching/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/pattern-matching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Asynchronous Processing</title>
-      <link>https://yningg.github.io/Blogs/tags/asynchronous-processing/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/asynchronous-processing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Distributed Systems</title>
-      <link>https://yningg.github.io/Blogs/tags/distributed-systems/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/distributed-systems/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Event Driven Architecture</title>
-      <link>https://yningg.github.io/Blogs/tags/event-driven-architecture/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/event-driven-architecture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Idempotency</title>
-      <link>https://yningg.github.io/Blogs/tags/idempotency/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/idempotency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kafka</title>
-      <link>https://yningg.github.io/Blogs/tags/kafka/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/kafka/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software Architecture</title>
-      <link>https://yningg.github.io/Blogs/tags/software-architecture/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/software-architecture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Transactional Outbox</title>
-      <link>https://yningg.github.io/Blogs/tags/transactional-outbox/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/transactional-outbox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microservices</title>
-      <link>https://yningg.github.io/Blogs/tags/microservices/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/microservices/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testing</title>
-      <link>https://yningg.github.io/Blogs/tags/testing/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/testing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AWS</title>
-      <link>https://yningg.github.io/Blogs/tags/aws/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/aws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>S3</title>
-      <link>https://yningg.github.io/Blogs/tags/s3/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/tags/s3/</guid>
+      <title>Information Retrieval</title>
+      <link>https://yningg.github.io/Blogs/tags/information-retrieval/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/tags/information-retrieval/</guid>
       <description></description>
     </item>
   </channel>
