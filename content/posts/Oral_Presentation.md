@@ -7,9 +7,6 @@ ShowToc: true
 TocOpen: true
 ---
 
-[TOC]
-
-
 
 # Preparation Phase
 
