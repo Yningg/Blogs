@@ -24,7 +24,7 @@ params:
   keywords: [Blog]
   author: Yining
   images: ["https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png"]
-  DateFormat: "May 22, 2025"
+  DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
 
