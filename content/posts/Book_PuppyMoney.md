@@ -1,6 +1,6 @@
 ---
 title: "Reading Notes: A DOG CALLED MONEY (小狗钱钱)"
-date: June 1, 2025
+date: 2025-06-01
 tags: ["Reading", "Business & Personal Finance", "Self-development"]
 categories: Reading
 ShowToc: true
