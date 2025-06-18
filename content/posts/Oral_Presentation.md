@@ -1,6 +1,6 @@
 ---
 title: "Notes for Preparing an Oral Presentation"
-date: 2025-05-28
+date: May 28, 2025
 tags: ["Research Communication"]
 categories: Research Communication
 ShowToc: true
