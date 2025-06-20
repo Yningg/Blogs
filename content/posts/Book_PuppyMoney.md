@@ -5,6 +5,7 @@ tags: ["Reading", "Business & Personal Finance", "Self-development", "Chinese"]
 categories: Reading
 ShowToc: true
 TocOpen: true
+TocSide: left
 ---
 
 阅读时间：2023-03-03 --> 2023-04-11
