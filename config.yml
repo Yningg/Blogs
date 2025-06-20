@@ -7,11 +7,21 @@ pagination:
   pagerSize: 10
 
 enableRobotsTXT: true
+enableEmoji: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
 googleAnalytics: G-R86690PBWG
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
 
 minify:
   disableXML: true
@@ -29,7 +39,7 @@ params:
   disableThemeToggle: false
 
   TocOpen: true
-
+  TocSide: 'left'
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
