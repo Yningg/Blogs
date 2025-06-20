@@ -16,11 +16,11 @@ googleAnalytics: G-R86690PBWG
 
 languages:
   en:
-    contentDir: content/english
+    contentDir: content/posts/english
     languageName: English
     weight: 10
   ch:
-    contentDir: content/chinese
+    contentDir: content/posts/chinese
     languageName: 中文
     weight: 20
 
