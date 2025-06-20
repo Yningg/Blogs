@@ -1,7 +1,7 @@
 ---
-title: "Reading Notes: A DOG CALLED MONEY (小狗钱钱)"
+title: "阅读笔记: 小狗钱钱"
 date: 2025-06-01
-tags: ["Reading", "Business & Personal Finance", "Self-development"]
+tags: ["Reading", "Business & Personal Finance", "Self-development", "Chinese"]
 categories: Reading
 ShowToc: true
 TocOpen: true

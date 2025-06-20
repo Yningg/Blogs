@@ -14,16 +14,6 @@ buildExpired: false
 
 googleAnalytics: G-R86690PBWG
 
-languages:
-  en:
-    contentDir: content/posts/english
-    languageName: English
-    weight: 10
-  ch:
-    contentDir: content/posts/chinese
-    languageName: 中文
-    weight: 20
-
 minify:
   disableXML: true
   minifyOutput: true
@@ -40,7 +30,7 @@ params:
   disableThemeToggle: false
 
   TocOpen: true
-  TocSide: left
+  TocSide: right
   ShowToc: true
   ShowReadingTime: true
   ShowShareButtons: true
@@ -55,7 +45,6 @@ params:
   comments: true
   hidemeta: false
   hideSummary: false
-
 
   assets:
     favicon: "favicon.ico"
