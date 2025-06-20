@@ -15,13 +15,14 @@ buildExpired: false
 googleAnalytics: G-R86690PBWG
 
 languages:
-    en:
-        languageName: "English"
-        weight: 1
-        taxonomies:
-          category: categories
-          tag: tags
-          series: series
+  en:
+    contentDir: content/english
+    languageName: English
+    weight: 10
+  ch:
+    contentDir: content/chinese
+    languageName: 中文
+    weight: 20
 
 minify:
   disableXML: true
@@ -39,7 +40,8 @@ params:
   disableThemeToggle: false
 
   TocOpen: true
-  TocSide: 'left'
+  TocSide: left
+  ShowToc: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -53,8 +55,7 @@ params:
   comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+
 
   assets:
     favicon: "favicon.ico"
