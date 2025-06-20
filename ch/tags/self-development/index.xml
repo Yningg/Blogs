@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Yining&#39;s Blog</title>
-    <link>https://yningg.github.io/Blogs/ch/</link>
-    <description>Recent content on Yining&#39;s Blog</description>
+    <title>Self-Development on Yining&#39;s Blog</title>
+    <link>https://yningg.github.io/Blogs/ch/tags/self-development/</link>
+    <description>Recent content in Self-Development on Yining&#39;s Blog</description>
     <image>
       <title>Yining&#39;s Blog</title>
       <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.147.8</generator>
     <language>ch</language>
     <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yningg.github.io/Blogs/ch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yningg.github.io/Blogs/ch/tags/self-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading Notes: A DOG CALLED MONEY (小狗钱钱)</title>
       <link>https://yningg.github.io/Blogs/ch/book_puppymoney/</link>

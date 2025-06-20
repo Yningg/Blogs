@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yningg.github.io/Blogs/ch/tags/business--personal-finance/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yningg.github.io/Blogs/ch/categories/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,7 +18,20 @@
                 href="https://yningg.github.io/Blogs/ch/categories/"
                 />
   </url><url>
+    <loc>https://yningg.github.io/Blogs/ch/categories/reading/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/ch/tags/reading/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/ch/book_puppymoney/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/ch/tags/self-development/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yningg.github.io/Blogs/ch/tags/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +44,7 @@
                 />
   </url><url>
     <loc>https://yningg.github.io/Blogs/ch/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
