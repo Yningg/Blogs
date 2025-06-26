@@ -1,5 +1,5 @@
 ---
-title: "阅读笔记: 小狗钱钱"
+title: "Reading Notes: 《小狗钱钱》"
 date: 2025-06-01
 tags: ["Reading", "Business & Personal Finance", "Self-development", "Chinese"]
 categories: Reading

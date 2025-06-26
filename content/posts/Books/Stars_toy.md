@@ -1,5 +1,5 @@
 ---
-title: "阅读笔记: 星星是冰冷的玩具"
+title: "Reading Notes: 《星星是冰冷的玩具》"
 date: 2025-06-26
 tags: ["Reading", "Science Fiction", "Russian"]
 categories: Reading
@@ -7,6 +7,7 @@ ShowToc: true
 TocOpen: true
 ---
 
+阅读时间：2025-06-12 --> 2025-06-25
 
 ## 原文摘录
 
