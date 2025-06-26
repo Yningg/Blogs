@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sentiment Analysis on Yining&#39;s Blog</title>
+    <link>https://yningg.github.io/Blogs/categories/sentiment-analysis/</link>
+    <description>Recent content in Sentiment Analysis on Yining&#39;s Blog</description>
+    <image>
+      <title>Yining&#39;s Blog</title>
+      <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
+      <link>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yningg.github.io/Blogs/categories/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recent Advances on Sentiment Analysis</title>
+      <link>https://yningg.github.io/Blogs/posts/sentiment_analysis/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/posts/sentiment_analysis/</guid>
+      <description>&lt;p&gt;(Left appox. 3 papers to be updated in recent days)&lt;/p&gt;
+&lt;p&gt;Here is a literature note on selected recent advancements in sentiment analysis techniques. The papers, published between 2024 and 2025 to date, all involve the application and/or discussion of LLMs in sentiment analysis tasks.&lt;/p&gt;
+&lt;h2 id=&#34;taxonomy-of-sentiment-analysis-techniques&#34;&gt;Taxonomy of Sentiment Analysis Techniques&lt;/h2&gt;
+&lt;p&gt;Here I combine the taxonomies adopted in [2] and [6] to involve all mentioned sentiment analysis techniques.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Lexicon-based Methods&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Possible to measure gradations in sentiment&lt;/li&gt;
+&lt;li&gt;More intrinsically suited to types of questions social scientists often ask, for example:
+&lt;ul&gt;
+&lt;li&gt;Trends over time in average sentiment across large quantities of texts&lt;/li&gt;
+&lt;li&gt;Whether one group of texts is more negative than another&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traditional Machine Learning Models&lt;/strong&gt; (e.g., Naive Bayes, Support Vector Machines (SVM))&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep Learning Models&lt;/strong&gt; (e.g., Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs))
+&lt;ul&gt;
+&lt;li&gt;Can learn hierarchical and sequential patterns in text, more suitable for sentiment analysis on informal social media platforms&lt;/li&gt;
+&lt;li&gt;Appealing for domain-specific applications&lt;/li&gt;
+&lt;li&gt;Performance degrades rapidly when methods are applied to other domains&lt;/li&gt;
+&lt;li&gt;Often require large labeled datasets and computational resources&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transformer-based Architectures&lt;/strong&gt; (e.g., BERT, RoBERTa, and GPT)
+&lt;ul&gt;
+&lt;li&gt;Can address challenges specific to Twitter, including brevity, mixed sentiments, and multilingual content&lt;/li&gt;
+&lt;li&gt;Have high computational cost and require domain-specific adaptation&lt;/li&gt;
+&lt;li&gt;Have built-in bias even without domain-specific fine-tuning. Even explicitly de-biased LLMs continue to reflect pernicious biases.&lt;/li&gt;
+&lt;li&gt;Supervised/Fine-tuned LLMs
+&lt;ul&gt;
+&lt;li&gt;Pros: require fewer labeled samples&lt;/li&gt;
+&lt;li&gt;Cons:
+&lt;ul&gt;
+&lt;li&gt;May represent &amp;ldquo;catastrophic forgetting&amp;rdquo;, in which fine-tuning a general model for the sentiment analysis task risks losing many of the strengths of the pre-trained model&lt;/li&gt;
+&lt;li&gt;There are often unexpected (and unnoticed) pitfalls in trying to keep the training, validation, and application steps of the machine learning model separate, which may invalidate findings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Comparing to the supervised methods, unsupervised methods (i.e., Lexicon-based methods and unsupervised learning methods) are more domain-independent.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
