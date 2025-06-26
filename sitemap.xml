@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yningg.github.io/Blogs/categories/</loc>
-    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://yningg.github.io/Blogs/posts/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/</loc>
+    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/categories/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/categories/reading/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/tags/reading/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/posts/books/stars_toy/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/tags/russian/</loc>
@@ -23,22 +29,16 @@
     <loc>https://yningg.github.io/Blogs/tags/</loc>
     <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yningg.github.io/Blogs/</loc>
-    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yningg.github.io/Blogs/posts/books/stars_toy/</loc>
-    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://yningg.github.io/Blogs/tags/business--personal-finance/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/tags/chinese/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yningg.github.io/Blogs/tags/self-development/</loc>
+    <loc>https://yningg.github.io/Blogs/posts/books/puppymoney/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yningg.github.io/Blogs/posts/books/puppymoney/</loc>
+    <loc>https://yningg.github.io/Blogs/tags/self-development/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/posts/oral_presentation/</loc>
