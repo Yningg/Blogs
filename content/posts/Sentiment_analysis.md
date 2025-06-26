@@ -81,7 +81,7 @@ Many of automated methods share three important characteristics that limit their
 **Prompt Engineering**: use LangChain framework to construct tailored instructions that guide the LLM in its sentiment classification task. Prompts included <u>a task description,detailed instructions, and an expected output format</u>.
 
 <div style="text-align: center;">
-    <img src="../Figures/arabic_prompt.png" alt="alt text" width="70%"/>
+    <img src="/content/Figures/arabic_prompt.png" alt="alt text" width="70%"/>
 </div>
 
 
@@ -124,17 +124,17 @@ Conducting sentiment analysis on Twitter data is notably complex for the followi
 
 
 **Summary of the usage of GPT models**
-![alt text](../Figures/gpt_usage_summary.png)
+![alt text](/content/Figures/gpt_usage_summary.png)
 
 **Summary of the usage of BERT model**
-![alt text](../Figures/bert_usage_summary.png)
+![alt text](/content/Figures/bert_usage_summary.png)
 
 **Summary of the usage of RoBERTa model**
-![alt text](../Figures/roberta_usage_summary.png)
+![alt text](/content/Figures/roberta_usage_summary.png)
 
 **Overview of NLP models applied in sentiment analysis**
 (Not only limited to Twitter datasets)
-![alt text](../Figures/meta_nlp_summary.png)
+![alt text](/content/Figures/meta_nlp_summary.png)
 
 
 **Comparative analysis of model performance**
@@ -163,7 +163,7 @@ In some cases, advanced techniques such as <u>back-translation</u> and <u>synony
 + The limitation in cross-domain performance
 + Ethical concerns, including biases in training data that can influence model output and reinforce harmful stereotypes
 
-## Referenced Sources
+## References
 [1] Jähde, Orlando, Thorsten Weber, and Rüdiger Buchkremer. "Unraveling media perspectives: a comprehensive methodology combining large language models, topic modeling, sentiment analysis, and ontology learning to analyse media bias." Journal of Computational Social Science 8, no. 2 (2025): 1-56.
 [2] van der Veen, A. Maurits, and Erik Bleich. "The advantages of lexicon-based sentiment analysis in an age of machine learning." PloS one 20, no. 1 (2025): e0313092.
 [3] Alotaibi, Alanoud, Farrukh Nadeem, and Mohamed Hamdy. "Weakly Supervised Deep Learning for Arabic Tweet Sentiment Analysis on Education Reforms: Leveraging Pre-trained Models and LLMs with Snorkel." IEEE Access (2025).
