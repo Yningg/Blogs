@@ -1,6 +1,6 @@
 ---
 title: "Recent Advances on Sentiment Analysis"
-date: 2026-06-26
+date: 2025-06-26
 tags: ["Sentiment Analysis", "Natural Language Processing", "Large Language Model"]
 categories: Sentiment Analysis
 ShowToc: true
