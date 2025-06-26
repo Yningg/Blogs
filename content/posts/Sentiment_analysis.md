@@ -80,10 +80,15 @@ Many of automated methods share three important characteristics that limit their
 
 **Prompt Engineering**: use LangChain framework to construct tailored instructions that guide the LLM in its sentiment classification task. Prompts included <u>a task description,detailed instructions, and an expected output format</u>.
 
-<div style="text-align: center;">
-    <img src="/Blogs/Figures/arabic_prompt.png" alt="alt text" width="70%"/>
-</div>
-
+> **System** = You are a helpful assistant working in the fields of Artificial Intelligence. You always respond in a professionally precise and accurate manner. Your answers and responds are always as short and as informative as possible. You are, also, honest and respond with (I don't know.) in case you don't have a clear answer.
+> **question** = What is sentiment classification in NLP?
+>
+> **instructions** = In the NLP task of sentiment classification, we try to label a piece of text as follows: 1. positive: if it has or contains a positive tone or lexicons.2. negative: if it has or contains a negative tone or lexicons.3. neutral: otherwise.You will be given a piece of text delimited by three hashs, label it based on the 3 classes above.
+> **### {Text} ###**
+> 
+> **Output** = "prediction": string // The prediction of the
+included piece of text. Return only one of the following
+classes (positive, negative, neutral).
 
 ### Paper 4: GPT is an effective tool for multilingual psychological text analysis
 
