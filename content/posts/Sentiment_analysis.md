@@ -81,7 +81,7 @@ Many of automated methods share three important characteristics that limit their
 **Prompt Engineering**: use LangChain framework to construct tailored instructions that guide the LLM in its sentiment classification task. Prompts included <u>a task description,detailed instructions, and an expected output format</u>.
 
 <div style="text-align: center;">
-    <img src="/content/Figures/arabic_prompt.png" alt="alt text" width="70%"/>
+    <img src="/static/Figures/arabic_prompt.png" alt="alt text" width="70%"/>
 </div>
 
 
@@ -124,17 +124,17 @@ Conducting sentiment analysis on Twitter data is notably complex for the followi
 
 
 **Summary of the usage of GPT models**
-![alt text](/content/Figures/gpt_usage_summary.png)
+![alt text](/static/Figures/gpt_usage_summary.png)
 
 **Summary of the usage of BERT model**
-![alt text](/content/Figures/bert_usage_summary.png)
+![alt text](/static/Figures/bert_usage_summary.png)
 
 **Summary of the usage of RoBERTa model**
-![alt text](/content/Figures/roberta_usage_summary.png)
+![alt text](/static/Figures/roberta_usage_summary.png)
 
 **Overview of NLP models applied in sentiment analysis**
 (Not only limited to Twitter datasets)
-![alt text](/content/Figures/meta_nlp_summary.png)
+![alt text](/static/Figures/meta_nlp_summary.png)
 
 
 **Comparative analysis of model performance**
