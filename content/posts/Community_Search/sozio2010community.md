@@ -53,12 +53,14 @@ Another way to avoid the pathological situations of attaching communities that a
 <span style="font-size: 13px;">*A factor 2 approximation means: The solution the algorithm gives you is guaranteed to be <u>at least half as good as</u> the best possible solution.</span>
 
 #### 3.1.1 **GREEDY algorithm**
-> + Start by setting $G_0 = G$ and proceed by deleting one node in each step;
+> + Let $G_0 = G$
 > +  For each t-th step of execution,
->       + Delete a node $u$ that has minimum degree in $G_{t−1}$. and all the edges incident to $u$ from $G_{t-1}$ to obtain graph $G_t$
+>       + Delete a node $u$ that has minimum degree in $G_{t−1}$ and all the edges incident to $u$ from $G_{t-1}$ to obtain graph $G_t$
 >       + Extract the connected component of $G_t$, $G_t^{'}$, which contains all query nodes $Q$
 >       + Compute $f_m(G_t^{'})$ and compare with the previous step
-> Stop at the step if either (i) at least one of the query nodes $Q$ has minimum degree in the graph $G_{T −1}$, or (ii) the query nodes $Q$ are no longer connected. Returns the solution $G_O$ for $G_t^{'}$ where $f_m(G_t^{'})$ is maximized ($G_O = arg max \{f_m(G_t^{'})| t=1,...,T-1\}$).
+> + Stop at the step if either 
+>   (i) at least one of the query nodes $Q$ has minimum degree in the graph $G_{T −1}$, or 
+>   (ii) the query nodes $Q$ are no longer connected. Returns the solution $G_O$ for $G_t^{'}$ where $f_m(G_t^{'})$ is maximized ($G_O = arg max \{f_m(G_t^{'})| t=1,...,T-1\}$).
 
 Greedy can be implemented in linear time and can be used to find an optimal solution for any monotone function.
 
@@ -109,7 +111,7 @@ The two heuristics provide a quality–efficiency trade-off: GreedyDist is tries
 The design principle is the simple observation that a tighter distance constraint implies smaller communities (d $\downarrow$, size $\downarrow$). GREEDYDIST uses the algorithm GREEDYGEN as a subroutine.
 
 > + Execute the algorithm GREEDYGEN in order to maximize the minimum degree subject to the distance constraint $d$ that is specified in input.
-> + If the query nodes are connected and the size constraint is not satisfied in the output graph, then execute GREEDYGEN again with a tighter distance bound $d' < d$.
+> + If the query nodes are connected and the size constraint is not satisfied in the output graph, then execute GREEDYGEN again with a tighter distance bound $d' < d$ (d--).
 > + GREEDYDIST iterates executing GREEDYGEN by decreasing at each step the distance constraint, until:
 >   + The size constraint is satisfied, or
 >   + The query nodes become disconnected. In this case, GREEDYDIST returns the smallest graph found among all executions of GREEDYGEN that is connected.
@@ -125,6 +127,13 @@ After this preprocessing phase, we execute GREEDY on the restricted graph formed
 
 **Datasets**: DBLP, tag, BIOMINE
 
+**Efficiency metrics**: running time
+
 **Effectiveness metrics**: the minimum degree $f_m$, the average degree (density) $f_a$, size and distance.
+
+**Sensitivity analysis**: 
++ Number of query nodes
++ Distance between query nodes
++ Upper bound on the number of nodes
 
 **Case study**: show the quality of the algorithm results
