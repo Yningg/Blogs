@@ -15,9 +15,9 @@
     <atom:link href="https://yningg.github.io/Blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading Notes: 《星星是冰冷的玩具》</title>
-      <link>https://yningg.github.io/Blogs/posts/books/stars_toy/</link>
+      <link>https://yningg.github.io/Blogs/posts/books/starstoy/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/books/stars_toy/</guid>
+      <guid>https://yningg.github.io/Blogs/posts/books/starstoy/</guid>
       <description>&lt;p&gt;阅读时间：2025-06-12 &amp;ndash;&amp;gt; 2025-06-25&lt;/p&gt;
 &lt;h2 id=&#34;原文摘录&#34;&gt;原文摘录&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -52,9 +52,9 @@
     </item>
     <item>
       <title>Recent Advances on Sentiment Analysis</title>
-      <link>https://yningg.github.io/Blogs/posts/sentiment_analysis/</link>
+      <link>https://yningg.github.io/Blogs/posts/research/sentiment_analysis/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/sentiment_analysis/</guid>
+      <guid>https://yningg.github.io/Blogs/posts/research/sentiment_analysis/</guid>
       <description>&lt;p&gt;(Left appox. 3 papers to be updated in recent days)&lt;/p&gt;
 &lt;p&gt;Here is a literature note on selected recent advancements in sentiment analysis techniques. The papers, published between 2024 and 2025 to date, all involve the application and/or discussion of LLMs in sentiment analysis tasks.&lt;/p&gt;
 &lt;h2 id=&#34;taxonomy-of-sentiment-analysis-techniques&#34;&gt;Taxonomy of Sentiment Analysis Techniques&lt;/h2&gt;
