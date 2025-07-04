@@ -1,6 +1,6 @@
 ---
 title: "The community-search problem and how to plan a successful cocktail party"
-date: 2026-06-20
+date: 2025-06-20
 tags: ["Community Search", "Graph Theory", "Information Retrieval"]
 categories: Community Search
 ShowToc: true
