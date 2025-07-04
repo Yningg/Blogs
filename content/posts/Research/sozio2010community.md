@@ -11,7 +11,7 @@ TocOpen: true
 > Keywords: $k$-core; Undirected graph; Size-constraints; Greedy algorithm; Heuristic Algorithms
 
 ## 1 Motivations
-Discovering communities in graphs and social networks has drawn a large amount of attention in recent years. Most of the work has focused in the scenario where communities need to be discovered in an apriori manner, with only reference to the input graph. <u>However, in many application scenarios we are interested in discovering the community defined by a given set of nodes.</u>
+Discovering communities in graphs and social networks has drawn a large amount of attention in recent years. Most of the work has focused on the scenario where communities need to be discovered in an a priori manner, with only reference to the input graph. <u>However, in many application scenarios, we are interested in discovering the community defined by a given set of nodes.</u>
 
 ### 1.1 Potential Applications
 Social-network analysis, collaborative tagging systems, query-log analysis, biology, and others.
@@ -64,7 +64,7 @@ Another way to avoid the pathological situations of attaching communities that a
 
 Greedy can be implemented in linear time and can be used to find an optimal solution for any monotone function.
 
-Drawback of GREEDY: it may return subgraphs with very large size. 
+Drawback of GREEDY: it may return subgraphs of very large size. 
 
 #### 3.1.2 Generalization to monotone functions
 The algorithm GREEDY can be used to find an optimal solution for any monotone function.
@@ -90,7 +90,7 @@ For solving the Problem 3, we generalize the algorithm GREEDY to GREEDYGEN. In d
 >       + If find such a node, delete $v$ and all the incident edges of $v$
 >       + Otherwise, delete from $G$ a node $v$ such that $f(G, v)$ is minimum.
 
-The algorithm GreedyGen returns always an optimum solution for Problem 3. The exact running time of the algorithm depends on the constraints employed.
+The algorithm GreedyGen always returns an optimum solution for Problem 3. The exact running time of the algorithm depends on the constraints employed.
 
 
 ### 3.2 Communities With Size Constraints
@@ -103,9 +103,9 @@ The algorithm GreedyGen returns always an optimum solution for Problem 3. The ex
 > + $|V_H| \leq k$ ($H$ has at most $k$ nodes);
 > + The minimum degree of $H$ is maximized.
 
-*The proof of NP-hard of this problem is using the reduction to the **Steiner-tree problem with unit weights**.*
+*The proof of NP-hardness of this problem is using the reduction to the **Steiner-tree problem with unit weights**.*
 
-The two heuristics provide a quality–efficiency trade-off: GreedyDist is tries to optimize quality while GreedyFast tries to optimize efficiency.
+The two heuristics provide a quality–efficiency trade-off: GreedyDist tries to optimize quality while GreedyFast tries to optimize efficiency.
 
 #### First Heuristic Algorithm: GREEDYDIST($G$, $Q$, $k$, $d$)
 The design principle is the simple observation that a tighter distance constraint implies smaller communities (d $\downarrow$, size $\downarrow$). GREEDYDIST uses the algorithm GREEDYGEN as a subroutine.
@@ -120,7 +120,7 @@ The design principle is the simple observation that a tighter distance constrain
 
 There is a preprocessing phase where the input graph is restricted to the $k'$ closest nodes to the query nodes. The distance of a node to the query nodes is measured using the function $D_Q$ defined in Equation (1).
 
-After this preprocessing phase, we execute GREEDY on the restricted graph formed in the preprocessing phase. The intuition for doing this is that, the closer a node is to the query nodes, the more likely it belongs to the community.
+After this preprocessing phase, we execute GREEDY on the restricted graph formed in the preprocessing phase. The intuition for doing this is that the closer a node is to the query nodes, the more likely it belongs to the community.
 
 
 ## Experimental Evaluation
