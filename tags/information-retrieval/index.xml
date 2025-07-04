@@ -11,8 +11,19 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yningg.github.io/Blogs/tags/information-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The community-search problem and how to plan a successful cocktail party</title>
+      <link>https://yningg.github.io/Blogs/posts/research/sozio2010community/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/posts/research/sozio2010community/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This paper is the &lt;strong&gt;first&lt;/strong&gt; paper that propose the problem of community search.
+Keywords: $k$-core; Undirected graph; Size-constraints; Greedy algorithm; Heuristic Algorithms&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;1-motivations&#34;&gt;1 Motivations&lt;/h2&gt;
+&lt;p&gt;Discovering communities in graphs and social networks has drawn a large amount of attention in recent years. Most of the work has focused on the scenario where communities need to be discovered in an a priori manner, with only reference to the input graph. &lt;!-- raw HTML omitted --&gt;However, in many application scenarios, we are interested in discovering the community defined by a given set of nodes.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Community Search Papers in Top Journals/Conferences</title>
       <link>https://yningg.github.io/Blogs/posts/community_search_paper/</link>
