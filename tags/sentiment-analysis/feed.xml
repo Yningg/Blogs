@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sentiment Analysis on Yining&#39;s Blog</title>
-    <link>https://yningg.github.io/Blogs/categories/sentiment-analysis/</link>
+    <link>https://yningg.github.io/Blogs/tags/sentiment-analysis/</link>
     <description>Recent content in Sentiment Analysis on Yining&#39;s Blog</description>
     <image>
       <title>Yining&#39;s Blog</title>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yningg.github.io/Blogs/categories/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yningg.github.io/Blogs/tags/sentiment-analysis/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recent Advances on Sentiment Analysis</title>
       <link>https://yningg.github.io/Blogs/posts/research/sentiment_analysis/</link>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Yining&#39;s Blog</title>
-    <link>https://yningg.github.io/Blogs/</link>
-    <description>Recent content on Yining&#39;s Blog</description>
+    <title>Reading on Yining&#39;s Blog</title>
+    <link>https://yningg.github.io/Blogs/categories/reading/</link>
+    <description>Recent content in Reading on Yining&#39;s Blog</description>
     <image>
       <title>Yining&#39;s Blog</title>
       <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yningg.github.io/Blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yningg.github.io/Blogs/categories/reading/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading Notes: 《星星是冰冷的玩具》</title>
       <link>https://yningg.github.io/Blogs/posts/books/starstoy/</link>
@@ -49,68 +49,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;不能让人类拥有这样的自由。我们不能把决定权交给潜意识，交给自己颅底那一小团缥缈的思绪。**我们早就懂得了不能随心所欲，而要做应该做的事，这样才能找到自己真正的自由。**跟绝对自由的暗影世界比起来，甚至完全奴隶化的几何学家世界里都有更多通往真正自由的密道。&lt;strong&gt;因为随心所欲，就是真正的奴役。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;自己对自己的奴役。&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Recent Advances on Sentiment Analysis</title>
-      <link>https://yningg.github.io/Blogs/posts/research/sentiment_analysis/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/research/sentiment_analysis/</guid>
-      <description>&lt;p&gt;(Left appox. 3 papers to be updated in recent days)&lt;/p&gt;
-&lt;p&gt;Here is a literature note on selected recent advancements in sentiment analysis techniques. The papers, published between 2024 and 2025 to date, all involve the application and/or discussion of LLMs in sentiment analysis tasks.&lt;/p&gt;
-&lt;h2 id=&#34;taxonomy-of-sentiment-analysis-techniques&#34;&gt;Taxonomy of Sentiment Analysis Techniques&lt;/h2&gt;
-&lt;p&gt;Here I combine the taxonomies adopted in [2] and [6] to involve all mentioned sentiment analysis techniques.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Lexicon-based Methods&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Possible to measure gradations in sentiment&lt;/li&gt;
-&lt;li&gt;More intrinsically suited to types of questions social scientists often ask, for example:
-&lt;ul&gt;
-&lt;li&gt;Trends over time in average sentiment across large quantities of texts&lt;/li&gt;
-&lt;li&gt;Whether one group of texts is more negative than another&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Traditional Machine Learning Models&lt;/strong&gt; (e.g., Naive Bayes, Support Vector Machines (SVM))&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Deep Learning Models&lt;/strong&gt; (e.g., Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs))
-&lt;ul&gt;
-&lt;li&gt;Can learn hierarchical and sequential patterns in text, more suitable for sentiment analysis on informal social media platforms&lt;/li&gt;
-&lt;li&gt;Appealing for domain-specific applications&lt;/li&gt;
-&lt;li&gt;Performance degrades rapidly when methods are applied to other domains&lt;/li&gt;
-&lt;li&gt;Often require large labeled datasets and computational resources&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Transformer-based Architectures&lt;/strong&gt; (e.g., BERT, RoBERTa, and GPT)
-&lt;ul&gt;
-&lt;li&gt;Can address challenges specific to Twitter, including brevity, mixed sentiments, and multilingual content&lt;/li&gt;
-&lt;li&gt;Have high computational cost and require domain-specific adaptation&lt;/li&gt;
-&lt;li&gt;Have built-in bias even without domain-specific fine-tuning. Even explicitly de-biased LLMs continue to reflect pernicious biases.&lt;/li&gt;
-&lt;li&gt;Supervised/Fine-tuned LLMs
-&lt;ul&gt;
-&lt;li&gt;Pros: require fewer labeled samples&lt;/li&gt;
-&lt;li&gt;Cons:
-&lt;ul&gt;
-&lt;li&gt;May represent &amp;ldquo;catastrophic forgetting&amp;rdquo;, in which fine-tuning a general model for the sentiment analysis task risks losing many of the strengths of the pre-trained model&lt;/li&gt;
-&lt;li&gt;There are often unexpected (and unnoticed) pitfalls in trying to keep the training, validation, and application steps of the machine learning model separate, which may invalidate findings&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Comparing to the supervised methods, unsupervised methods (i.e., Lexicon-based methods and unsupervised learning methods) are more domain-independent.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The community-search problem and how to plan a successful cocktail party</title>
-      <link>https://yningg.github.io/Blogs/posts/research/sozio2010community/</link>
-      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/research/sozio2010community/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;This paper is the &lt;strong&gt;first&lt;/strong&gt; paper that propose the problem of community search.
-Keywords: $k$-core; Undirected graph; Size-constraints; Greedy algorithm; Heuristic Algorithms&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;1-motivations&#34;&gt;1 Motivations&lt;/h2&gt;
-&lt;p&gt;Discovering communities in graphs and social networks has drawn a large amount of attention in recent years. Most of the work has focused on the scenario where communities need to be discovered in an a priori manner, with only reference to the input graph. &lt;!-- raw HTML omitted --&gt;However, in many application scenarios, we are interested in discovering the community defined by a given set of nodes.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reading Notes: 《小狗钱钱》</title>
@@ -195,189 +133,6 @@ b. 所有的消费贷款都是不明智的。聪明的做法是只把以前积�
 &lt;p&gt;老妇人意味深长地说：“这在生活中是不可能的。生活始终向前行进。你可以暂时休息一下或者安静地聚集新的能量，但你永远也无法再回去了。&lt;/p&gt;
 &lt;p&gt;“有时候我也希望自己能再年轻几岁，那样一切就更简单了。”吉娅自言自语道。&lt;/p&gt;
 &lt;p&gt;老妇人点头表示同意，她说：“我相信成年人有时也会有这样的想法，但生活本身是一次旅行，总是一直向前。我们中的大多数人总是先到外面去建造甜甜圈那外在的一圈：上学、找工作、买房子、买汽车、储蓄及投资。但在这之后，有些人的旅行就会在某个时刻开始转入内在，他们会关注起自己的品格。而那正是所谓的甜甜圈的圆孔。人们不断地前往新的“河岸”、开启新的冒险，而一些明智的人再此过程中能同时注重物质和品格两个方面。”&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Notes for Preparing an Oral Presentation</title>
-      <link>https://yningg.github.io/Blogs/posts/research/oral_presentation/</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/research/oral_presentation/</guid>
-      <description>&lt;h2 id=&#34;preparation-phase&#34;&gt;Preparation Phase&lt;/h2&gt;
-&lt;h3 id=&#34;powerpoint-basics&#34;&gt;PowerPoint Basics&lt;/h3&gt;
-&lt;h4 id=&#34;font&#34;&gt;Font&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Using &lt;strong&gt;Sans Serif&lt;/strong&gt; fonts instead of &lt;strong&gt;Serif&lt;/strong&gt; fonts makes it easier for the audience to read the text quickly. Examples of Sans Serif fonts include &lt;em&gt;Arial&lt;/em&gt;, &lt;em&gt;Comic Sans&lt;/em&gt;, and &lt;em&gt;Trebuchet&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Type size should be within the range of 18 point to 36 point, except adding references at the bottom&lt;/li&gt;
-&lt;li&gt;Avoid using all capital letters&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;color&#34;&gt;Color&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;The color combination between letters and background should be &lt;strong&gt;high contrast&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;A dark blue or black background works best for talks in a large room&lt;/li&gt;
-&lt;li&gt;Dark letters against a light background are best for small rooms or teaching&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;There is no need for a university logo to be on each slide&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;layout&#34;&gt;Layout&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Every slide should have a heading, a &lt;strong&gt;simple but purposeful&lt;/strong&gt; sentence. For more effective headers, consider:
-&lt;ul&gt;
-&lt;li&gt;Using questions as headers to simulate a &amp;ldquo;conversation&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Using the assertion-evidence structure&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Limit text blocks to no more than &lt;strong&gt;two&lt;/strong&gt; lines each&lt;/li&gt;
-&lt;li&gt;Lists should contain no more than &lt;strong&gt;3&lt;/strong&gt; items, and &amp;ldquo;unveil&amp;rdquo; the list one by one&lt;/li&gt;
-&lt;li&gt;Be generous with empty space, especially at the top and the bottom&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;style&#34;&gt;Style&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Include a simple image on every slide&lt;/li&gt;
-&lt;li&gt;Limit the number of items on each slide; each slide should make just one or two points, and explain the points completely
-&lt;ul&gt;
-&lt;li&gt;If you&amp;rsquo;re not going to take the time to explain it, get rid of it&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Avoid fancy transitions between slides unless you have a good reason&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t drown the audience with data, less is more&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;three-functions-of-slides&#34;&gt;Three Functions of Slides&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Visual repetition&lt;/strong&gt; of key points: to draw attention to &amp;amp; reinforce key messages&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Complement&lt;/strong&gt; spoken text: additional info not said&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Replace Speaker&lt;/strong&gt; (temporarily): e.g., a video, show whole paragraph or table &amp;amp; ask audience to read while keeping silent&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;the-structure-of-slides-start-broad-get-specific-end-broad&#34;&gt;The structure of slides: start broad, get specific, end broad&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Start with the biggest questions and get progressively more specific&lt;/li&gt;
-&lt;li&gt;In the middle of the talk, go into depth, but use the home slide to make transitions (enable the audience to tune back in)&lt;/li&gt;
-&lt;li&gt;To conclude, reiterate the main conclusions and go back to the big picture&lt;/li&gt;
-&lt;li&gt;During Q&amp;amp;A, put the summary slide back up again&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;review-each-slide&#34;&gt;Review Each Slide&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Make sure each slide serves its PURPOSE&lt;/li&gt;
-&lt;li&gt;Each slide has MAIN POINTS thatthe  audience must see within 5 seconds&lt;/li&gt;
-&lt;li&gt;Check whether the slide will make the audience LISTEN or spend some time looking at the slide&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;during-presentation&#34;&gt;During Presentation&lt;/h2&gt;
-&lt;h3 id=&#34;useful-slide-transition-wordings&#34;&gt;Useful Slide Transition Wordings&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Now, what are &amp;hellip;?&amp;rdquo; (use of questions)&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;My next point is &amp;hellip;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Now that I&amp;rsquo;ve finished talking about &amp;hellip;, let&amp;rsquo;s move on to &amp;hellip;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;You&amp;rsquo;ve just seen &amp;hellip;, so we&amp;rsquo;ll now turn out attention to my second point: &amp;hellip;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;In addition to the factors we have discussed, I want to add &amp;hellip;&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;remind-vocal-dynamics&#34;&gt;Remind Vocal Dynamics&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Change &lt;strong&gt;pace&lt;/strong&gt; to emphasize key points&lt;/li&gt;
-&lt;li&gt;Change &lt;strong&gt;pitch&lt;/strong&gt; to create interest&lt;/li&gt;
-&lt;li&gt;Change &lt;strong&gt;volume&lt;/strong&gt; to emphasize contrast&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Punc-tu-ate&lt;/strong&gt; syllables and words for emphasis&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pause&lt;/strong&gt; before important information to provide anticipation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;avoid-vocal-distracters&#34;&gt;Avoid Vocal Distracters&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Vocalized pauses (um.., er.., ah..)&lt;/li&gt;
-&lt;li&gt;Filler words (ok, you know, actually)&lt;/li&gt;
-&lt;li&gt;Breathlessness&lt;/li&gt;
-&lt;li&gt;Voice dropping or rising at the end of a sentence&lt;/li&gt;
-&lt;li&gt;Mumbling /slurring&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;qa-session&#34;&gt;Q&amp;amp;A Session&lt;/h2&gt;
-&lt;p&gt;Different types of questions:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Community Search Papers in Top Journals/Conferences</title>
-      <link>https://yningg.github.io/Blogs/posts/community_search_paper/</link>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/community_search_paper/</guid>
-      <description>&lt;h1 id=&#34;table-for-community-search-papers&#34;&gt;Table for Community Search Papers&lt;/h1&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Year&lt;/th&gt;
-          &lt;th&gt;Venue&lt;/th&gt;
-          &lt;th&gt;Title&lt;/th&gt;
-          &lt;th&gt;Graph Type&lt;/th&gt;
-          &lt;th&gt;Method Type&lt;/th&gt;
-          &lt;th&gt;Key Techniques&lt;/th&gt;
-          &lt;th&gt;Codebase&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;2023&lt;/td&gt;
-          &lt;td&gt;PVLDB&lt;/td&gt;
-          &lt;td&gt;CommunityAF: An Example-Based Community Search Method via Autoregressive Flow&lt;/td&gt;
-          &lt;td&gt;Undirected graph&lt;/td&gt;
-          &lt;td&gt;Learning-based&lt;/td&gt;
-          &lt;td&gt;CommunityAF Framework&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://github.com/JiazunChen/CommunityAF&#34;&gt;https://github.com/JiazunChen/CommunityAF&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1 id=&#34;reported-applications&#34;&gt;Reported Applications&lt;/h1&gt;
-&lt;p&gt;Recommendation; Personal background discovery; Anomaly detection;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Good Expressions/Sentences for Academic Writing</title>
-      <link>https://yningg.github.io/Blogs/posts/research/phrases_sentences/</link>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/research/phrases_sentences/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;This is a collection of useful phrases and sentences from research papers for future reference in academic writing.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;phrases--sentences&#34;&gt;Phrases &amp;amp; Sentences&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;pave the way to….&lt;/li&gt;
-&lt;li&gt;be cognizant of&lt;/li&gt;
-&lt;li&gt;a flurry of research&lt;/li&gt;
-&lt;li&gt;hallmark (a hallmark of this paper)&lt;/li&gt;
-&lt;li&gt;accentuate&lt;/li&gt;
-&lt;li&gt;carve out&lt;/li&gt;
-&lt;li&gt;with regard to/ pertaining to&lt;/li&gt;
-&lt;li&gt;manifold&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;scant attention&lt;/strong&gt; has been given…&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;we focus on…., which &lt;strong&gt;is orthogonal to&lt;/strong&gt; these efforts&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;What is, surprisingly, &lt;strong&gt;missing to date&lt;/strong&gt; is…&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;However, traditional community detection algorithms &lt;strong&gt;fail to pinpoint&lt;/strong&gt; a particular kind of community.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Write a (Literature) Review</title>
-      <link>https://yningg.github.io/Blogs/posts/research/literature_review/</link>
-      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/research/literature_review/</guid>
-      <description>&lt;h2 id=&#34;literature-review-vs-review-paper&#34;&gt;Literature Review V.S. Review Paper&lt;/h2&gt;
-&lt;h3 id=&#34;literature-review&#34;&gt;Literature Review&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Introduce research related to this specific study (usually in the introduction section)&lt;/li&gt;
-&lt;li&gt;Shorter than standalone reviews.&lt;/li&gt;
-&lt;li&gt;Narrower in scope&lt;/li&gt;
-&lt;li&gt;Often used to set research precedent and support theory or methods&lt;/li&gt;
-&lt;li&gt;Length: 2-4 paragraphs
-&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://yningg.github.io/Blogs/Figures/literature_4.png&#34;&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;standalone-review-articles&#34;&gt;Standalone Review Articles&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Presents and analyzes as much relevant literature as possible to explain background and context.&lt;/li&gt;
-&lt;li&gt;Broader in scope&lt;/li&gt;
-&lt;li&gt;More extended analysis&lt;/li&gt;
-&lt;li&gt;All sections refer to literature rather than to one current study&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Include conclusion section, which ties all of the work together, showing how the literature analysis contributes to the literature.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

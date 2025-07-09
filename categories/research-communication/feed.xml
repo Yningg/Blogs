@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Research Communication on Yining&#39;s Blog</title>
-    <link>https://yningg.github.io/Blogs/tags/research-communication/</link>
+    <link>https://yningg.github.io/Blogs/categories/research-communication/</link>
     <description>Recent content in Research Communication on Yining&#39;s Blog</description>
     <image>
       <title>Yining&#39;s Blog</title>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yningg.github.io/Blogs/tags/research-communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yningg.github.io/Blogs/categories/research-communication/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes for Preparing an Oral Presentation</title>
       <link>https://yningg.github.io/Blogs/posts/research/oral_presentation/</link>
