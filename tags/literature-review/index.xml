@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Academic Writing on Yining&#39;s Blog</title>
-    <link>https://yningg.github.io/Blogs/tags/academic-writing/</link>
-    <description>Recent content in Academic Writing on Yining&#39;s Blog</description>
+    <title>Literature Review on Yining&#39;s Blog</title>
+    <link>https://yningg.github.io/Blogs/tags/literature-review/</link>
+    <description>Recent content in Literature Review on Yining&#39;s Blog</description>
     <image>
       <title>Yining&#39;s Blog</title>
       <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
@@ -11,40 +11,8 @@
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yningg.github.io/Blogs/tags/academic-writing/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Good Expressions/Sentences for Academic Writing</title>
-      <link>https://yningg.github.io/Blogs/posts/research/phrases_sentences/</link>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/research/phrases_sentences/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;This is a collection of useful phrases and sentences from research papers for future reference in academic writing.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;phrases--sentences&#34;&gt;Phrases &amp;amp; Sentences&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;pave the way to….&lt;/li&gt;
-&lt;li&gt;be cognizant of&lt;/li&gt;
-&lt;li&gt;a flurry of research&lt;/li&gt;
-&lt;li&gt;hallmark (a hallmark of this paper)&lt;/li&gt;
-&lt;li&gt;accentuate&lt;/li&gt;
-&lt;li&gt;carve out&lt;/li&gt;
-&lt;li&gt;with regard to/ pertaining to&lt;/li&gt;
-&lt;li&gt;manifold&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;scant attention&lt;/strong&gt; has been given…&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;we focus on…., which &lt;strong&gt;is orthogonal to&lt;/strong&gt; these efforts&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;What is, surprisingly, &lt;strong&gt;missing to date&lt;/strong&gt; is…&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;However, traditional community detection algorithms &lt;strong&gt;fail to pinpoint&lt;/strong&gt; a particular kind of community.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yningg.github.io/Blogs/tags/literature-review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Write a (Literature) Review</title>
       <link>https://yningg.github.io/Blogs/posts/research/literature_review/</link>
