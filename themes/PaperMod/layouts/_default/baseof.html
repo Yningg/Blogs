@@ -7,8 +7,8 @@
 
 <head>
     {{- partial "head.html" . }}
+    {{- partial "math.html" . }}
 </head>
-
 <body class="
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
 {{- print "list" -}}
