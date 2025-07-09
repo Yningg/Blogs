@@ -9,7 +9,7 @@
       <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
       <link>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</link>
     </image>
-    <generator>Hugo -- 0.147.9</generator>
+    <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yningg.github.io/Blogs/index.xml" rel="self" type="application/rss+xml" />
@@ -198,9 +198,9 @@ b. 所有的消费贷款都是不明智的。聪明的做法是只把以前积�
     </item>
     <item>
       <title>Notes for Preparing an Oral Presentation</title>
-      <link>https://yningg.github.io/Blogs/posts/oral_presentation/</link>
+      <link>https://yningg.github.io/Blogs/posts/research/oral_presentation/</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/oral_presentation/</guid>
+      <guid>https://yningg.github.io/Blogs/posts/research/oral_presentation/</guid>
       <description>&lt;h2 id=&#34;preparation-phase&#34;&gt;Preparation Phase&lt;/h2&gt;
 &lt;h3 id=&#34;powerpoint-basics&#34;&gt;PowerPoint Basics&lt;/h3&gt;
 &lt;h4 id=&#34;font&#34;&gt;Font&lt;/h4&gt;
@@ -324,9 +324,9 @@ b. 所有的消费贷款都是不明智的。聪明的做法是只把以前积�
     </item>
     <item>
       <title>Good Expressions/Sentences for Academic Writing</title>
-      <link>https://yningg.github.io/Blogs/posts/phrases_sentences/</link>
+      <link>https://yningg.github.io/Blogs/posts/research/phrases_sentences/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://yningg.github.io/Blogs/posts/phrases_sentences/</guid>
+      <guid>https://yningg.github.io/Blogs/posts/research/phrases_sentences/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This is a collection of useful phrases and sentences from research papers for future reference in academic writing.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;phrases--sentences&#34;&gt;Phrases &amp;amp; Sentences&lt;/h2&gt;
@@ -353,6 +353,31 @@ b. 所有的消费贷款都是不明智的。聪明的做法是只把以前积�
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;However, traditional community detection algorithms &lt;strong&gt;fail to pinpoint&lt;/strong&gt; a particular kind of community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Write a (Literature) Review</title>
+      <link>https://yningg.github.io/Blogs/posts/research/literature_review/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/posts/research/literature_review/</guid>
+      <description>&lt;h2 id=&#34;literature-review-vs-review-paper&#34;&gt;Literature Review V.S. Review Paper&lt;/h2&gt;
+&lt;h3 id=&#34;literature-review&#34;&gt;Literature Review&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce research related to this specific study (usually in the introduction section)&lt;/li&gt;
+&lt;li&gt;Shorter than standalone reviews.&lt;/li&gt;
+&lt;li&gt;Narrower in scope&lt;/li&gt;
+&lt;li&gt;Often used to set research precedent and support theory or methods&lt;/li&gt;
+&lt;li&gt;Length: 2-4 paragraphs
+&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/literature_4.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;standalone-review-articles&#34;&gt;Standalone Review Articles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Presents and analyzes as much relevant liteature as possible to explain background and context.&lt;/li&gt;
+&lt;li&gt;Broader in scope&lt;/li&gt;
+&lt;li&gt;More extended analysis&lt;/li&gt;
+&lt;li&gt;All sections refer to literature rather than to one current study&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Include conclusion section, which ties all of the work together, showinghow the literature analysis contributes to the literature.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
