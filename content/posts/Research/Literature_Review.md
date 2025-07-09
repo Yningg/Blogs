@@ -15,16 +15,16 @@ TocOpen: true
 + Narrower in scope
 + Often used to set research precedent and support theory or methods
 + Length: 2-4 paragraphs
-![alt text](../../../static/Figures/literature_4.png)
+![alt text](/Blogs/Figures/literature_4.png)
 
 
 ### Standalone Review Articles
-+ Presents and analyzes as much relevant liteature as possible to explain background and context.
++ Presents and analyzes as much relevant literature as possible to explain background and context.
 + Broader in scope
 + More extended analysis
 + All sections refer to literature rather than to one current study
 
-> Include conclusion section, which ties all of the work together, showinghow the literature analysis contributes to the literature.
+> Include conclusion section, which ties all of the work together, showing how the literature analysis contributes to the literature.
 
 ### How many sources should be reviewed?
 
@@ -108,10 +108,10 @@ Determined by the scope of the topic, the depth of analysis, and the extent of c
 
 **<font color=red>Step 4: DESCRIBE and SUMMARIZE each selected article</font>** (Strip the summaries)
 1. When doing the background research, record the source of the information to allow others to validate what you said. This will lead to a sort of citation-details pairs that look like the following.
-![alt text](../../../static/Figures/literature_1.png)
+![alt text](/Blogs/Figures/literature_1.png)
 
 2. Then you should split these information into two parts: the citations list and paragraphs containing information from the sources. (I think for the paragraphs, I'd better write it in my own languages.)
-![alt text](../../../static/Figures/literature_2.png)
+![alt text](/Blogs/Figures/literature_2.png)
 
 **Step 5**: DEMONSTRATE how concepts in the literature relate to results of the study; **ESTABLISH how the literature is connected**.
 + <u>For intro to a journal article</u>:
@@ -149,10 +149,10 @@ Determined by the scope of the topic, the depth of analysis, and the extent of c
 
 
 + Step 6c. Add topic sentences & Transitions. (This step is all about turning the summary paragraphs into the real paragraphs.)
-![alt text](../../../static/Figures/literature_3.png)
+![alt text](/Blogs/Figures/literature_3.png)
 
 + Step 6d: Add introduction & Conclusion
-    <u>Introduction</u>: because the literature review summarize the published works by others, the thesis statement should bring together points dicussed by the sources
+    <u>Introduction</u>: because the literature review summarize the published works by others, the thesis statement should bring together points discussed by the sources
     
     <u>*Conclusion</u>: 
     + One common strategy for the conclusion is open with the re-statement of the thesis, which brings the readers back to the overall point.
