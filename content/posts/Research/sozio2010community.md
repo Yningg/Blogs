@@ -5,7 +5,6 @@ tags: ["Community Search", "Graph Theory", "Information Retrieval"]
 categories: Community Search
 ShowToc: true
 TocOpen: true
-math: true
 ---
 
 > This paper is the **first** paper that propose the problem of community search.

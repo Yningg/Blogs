@@ -28,7 +28,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
-  math: true
 
   TocOpen: true
   TocSide: right
@@ -120,21 +119,3 @@ markup:
     # guessSyntax: true
     # lineNos: true
     style: monokai
-
-
-outputFormats:
-  RSS:
-    mediatype: "application/rss"
-    baseName: "feed"
-    
-markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        noClasses: false
-        anchorLineNos: true
-        codeFences: true
-        guessSyntax: true
-        lineNos: true
-        style: github
