@@ -116,8 +116,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-    extensions:
-      passthrough: true
+
     parser:
       passthrough:
         enable: true
