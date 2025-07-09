@@ -114,64 +114,12 @@ pygmentsUseClasses: true
 
 markup:
   goldmark:
-    duplicateResourceFiles: false
-    extensions:
-      cjk:
-        eastAsianLineBreaks: false
-        eastAsianLineBreaksStyle: simple
-        enable: false
-        escapedSpace: false
-      definitionList: true
-      extras:
-        delete:
-          enable: false
-        insert:
-          enable: false
-        mark:
-          enable: false
-        subscript:
-          enable: false
-        superscript:
-          enable: false
-      footnote: true
-      linkify: true
-      linkifyProtocol: https
-      passthrough:
-        delimiters:
-          block: []
-          inline: []
-        enable: false
-      strikethrough: true
-      table: true
-      taskList: true
-      typographer:
-        apostrophe: '&rsquo;'
-        disable: false
-        ellipsis: '&hellip;'
-        emDash: '&mdash;'
-        enDash: '&ndash;'
-        leftAngleQuote: '&laquo;'
-        leftDoubleQuote: '&ldquo;'
-        leftSingleQuote: '&lsquo;'
-        rightAngleQuote: '&raquo;'
-        rightDoubleQuote: '&rdquo;'
-        rightSingleQuote: '&rsquo;'
-    parser:
-      attribute:
-        block: false
-        title: true
-      autoDefinitionTermID: false
-      autoHeadingID: true
-      autoIDType: github
-      wrapStandAloneImageWithinParagraph: true
-    renderHooks:
-      image:
-        enableDefault: false
-        useEmbedded: auto
-      link:
-        enableDefault: false
-        useEmbedded: auto
     renderer:
-      hardWraps: false
-      unsafe: false
-      xhtml: false
+      unsafe: true
+    extensions:
+      passthrough: true
+    parser:
+      passthrough:
+        enable: true
+        delimitersInline: ["$", "\\("]
+        delimitersBlock: ["$$", "\\["]
