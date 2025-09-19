@@ -9,10 +9,17 @@
       <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
       <link>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</link>
     </image>
-    <generator>Hugo -- 0.148.0</generator>
+    <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yningg.github.io/Blogs/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Psychology</title>
+      <link>https://yningg.github.io/Blogs/categories/psychology/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/categories/psychology/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reading</title>
       <link>https://yningg.github.io/Blogs/categories/reading/</link>

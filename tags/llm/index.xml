@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Yining&#39;s Blog</title>
+    <link>https://yningg.github.io/Blogs/tags/llm/</link>
+    <description>Recent content in LLM on Yining&#39;s Blog</description>
+    <image>
+      <title>Yining&#39;s Blog</title>
+      <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
+      <link>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yningg.github.io/Blogs/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large Language Models Do Not Simulate Human Psychology</title>
+      <link>https://yningg.github.io/Blogs/posts/research/llm_psychology/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/posts/research/llm_psychology/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Here are just some notes taken while I was reading.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Recently, some research has suggested that LLMs may even be able to simulate human psychology and can therefore replace human participants in psychological studies. We caution against this approach.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, we provide &lt;strong&gt;conceptual arguments&lt;/strong&gt; against the hypothesis that LLMs simulate human psychology.&lt;/li&gt;
+&lt;li&gt;We then present empiric evidence illustrating our arguments by demonstrating that &lt;u&gt;slight changes to wording that correspond to large changes in meaning lead to notable discrepancies between LLMs&amp;rsquo; and human responses&lt;/u&gt;, even for the recent CENTAUR model that was specifically fine-tuned on psychological responses.&lt;/li&gt;
+&lt;li&gt;Additionally, different LLMs show very different responses to novel items, further illustrating their &lt;strong&gt;lack of reliability&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We conclude that &lt;strong&gt;LLMs do not simulate human psychology&lt;/strong&gt; and recommend that psychological researchers should &lt;strong&gt;treat LLMs as useful but fundamentally unreliable tools&lt;/strong&gt; that need to be validated against human responses for every new application.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
