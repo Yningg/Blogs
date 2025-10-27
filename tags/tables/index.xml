@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tables on Yining&#39;s Blog</title>
+    <link>https://yningg.github.io/Blogs/tags/tables/</link>
+    <description>Recent content in Tables on Yining&#39;s Blog</description>
+    <image>
+      <title>Yining&#39;s Blog</title>
+      <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
+      <link>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yningg.github.io/Blogs/tags/tables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scientific Plotting&#34;</title>
+      <link>https://yningg.github.io/Blogs/posts/research/scientific_plotting/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/posts/research/scientific_plotting/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This is a collection of well-designed figures from research papers, complied for future reference in academic writing.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;network-visualization&#34;&gt;Network Visualization&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/dblp_networks.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/zhang2020seal.png&#34;&gt;
+Source: SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/cheng2023communityaf.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Source: CommunityAF: An Example-Based Community Search Method via Autoregressive Flow&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/wang2024scalable.png&#34;&gt;
+Source: Scalable Community Search over Large-scale Graphs based on Graph Transformer&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/sl_ghac.png&#34;&gt;
+Source: &lt;em&gt;&amp;ldquo;A hierarchical overlapping community detection method based on closed trail distance and maximal cliques&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

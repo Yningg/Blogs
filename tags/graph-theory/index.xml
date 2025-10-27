@@ -9,7 +9,7 @@
       <url>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</url>
       <link>https://github.com/Yningg/Blogs/tree/master/static/apple-touch-icon.png</link>
     </image>
-    <generator>Hugo -- 0.150.0</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yningg.github.io/Blogs/tags/graph-theory/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,8 @@
       <guid>https://yningg.github.io/Blogs/posts/research/sozio2010community/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This paper is the &lt;strong&gt;first&lt;/strong&gt; paper that propose the problem of community search.
-Keywords: $k$-core; Undirected graph; Size-constraints; Greedy algorithm; Heuristic Algorithms&lt;/p&gt;&lt;/blockquote&gt;
+Keywords: $k$-core; Undirected graph; Size-constraints; Greedy algorithm; Heuristic Algorithms&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;1-motivations&#34;&gt;1 Motivations&lt;/h2&gt;
 &lt;p&gt;Discovering communities in graphs and social networks has drawn a large amount of attention in recent years. Most of the work has focused on the scenario where communities need to be discovered in an a priori manner, with only reference to the input graph. &lt;u&gt;However, in many application scenarios, we are interested in discovering the community defined by a given set of nodes.&lt;/u&gt;&lt;/p&gt;</description>
     </item>
