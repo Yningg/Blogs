@@ -55,6 +55,8 @@ TocOpen: true
 
 - ShapeSearch **is a promising step towards** accelerating the search for insights in data **while catering to the needs of** expert and novice programmers alike.
 
+- To **close** this research gap.
+
 ## Other Resources
 + [Sentence starters, transitional and other useful words](https://online.op.ac.nz/assets/Uploads/f373ebe246/Sentence-starters.pdf)
 + https://www.phrasebank.manchester.ac.uk/
