@@ -357,7 +357,7 @@ b. 所有的消费贷款都是不明智的。聪明的做法是只把以前积�
 &lt;p&gt;Recommendation; Personal background discovery; Anomaly detection;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Scientific Plotting&#34;</title>
+      <title>Scientific Plotting</title>
       <link>https://yningg.github.io/Blogs/posts/research/scientific_plotting/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <guid>https://yningg.github.io/Blogs/posts/research/scientific_plotting/</guid>
@@ -365,14 +365,14 @@ b. 所有的消费贷款都是不明智的。聪明的做法是只把以前积�
 &lt;p&gt;This is a collection of well-designed figures from research papers, complied for future reference in academic writing.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;network-visualization&#34;&gt;Network Visualization&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/dblp_networks.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/zhang2020seal.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://yningg.github.io/Blogs/Figures/dblp_networks.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://yningg.github.io/Blogs/Figures/zhang2020seal.png&#34;&gt;
 Source: SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/cheng2023communityaf.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://yningg.github.io/Blogs/Figures/cheng2023communityaf.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Source: CommunityAF: An Example-Based Community Search Method via Autoregressive Flow&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/wang2024scalable.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://yningg.github.io/Blogs/Figures/wang2024scalable.png&#34;&gt;
 Source: Scalable Community Search over Large-scale Graphs based on Graph Transformer&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;../../../static/Figures/sl_ghac.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://yningg.github.io/Blogs/Figures/sl_ghac.png&#34;&gt;
 Source: &lt;em&gt;&amp;ldquo;A hierarchical overlapping community detection method based on closed trail distance and maximal cliques&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
