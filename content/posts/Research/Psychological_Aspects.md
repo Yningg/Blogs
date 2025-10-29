@@ -29,7 +29,7 @@ This paper covers several well-established cognitive architectures, discussing <
 reasoning, decision-making, problem-solving.
 -->  Core to how users interact with IR and RS, search perceive results and make choices in IR/RS contexts
 
-![alt text](/Blogs/static/Figures/IR_RS_cognitive_mapping.png)
+![alt text](/Blogs/Figures/IR_RS_cognitive_mapping.png)
 
 
 ### Cognitive Load
@@ -44,7 +44,7 @@ memory
   + Germane load: effort needed to build useful insights("schemas in memory")
 
 ### Taxonomy of Cognitive Architectures
-![alt text](/Blogs/static/Figures/cognitive_archi.png)
+![alt text](/Blogs/Figures/cognitive_archi.png)
 
 
 ### Major Cognitive Architectures
@@ -122,13 +122,13 @@ items from the middle of the sequence
 > The user enters the interaction with the system with certain preferences, expectations, and experiences a level of satisfaction with the results. Several psychological constructs are related to these aspects of IR and RS.
 
 ### States vs. Traits
-![alt text](/Blogs/static/Figures/traits_states.png)
+![alt text](/Blogs/Figures/traits_states.png)
 
 ### Personality and Emotions
 + **Mood**: no particular trigger, can be positive/negative
 + **Emotions**: can be triggered
 
-![alt text](/Blogs/static/Figures/personality.png)
+![alt text](/Blogs/Figures/personality.png)
 
 ### Emotions vs mood vs sentiment
 + Emotion:
