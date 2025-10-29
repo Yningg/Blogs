@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yningg.github.io/Blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Psychological Aspects in Retrieval and Recommendation</title>
+      <link>https://yningg.github.io/Blogs/posts/research/psychological_aspects/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yningg.github.io/Blogs/posts/research/psychological_aspects/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Some notes on the Paper &amp;ldquo;Psychological Aspects in Retrieval and Recommendation&amp;rdquo; published in SIGIR 2025, together with its slides available at: &lt;a href=&#34;https://github.com/aisocietylab/Psy-IR-RecSys-SIGIR25/tree/main&#34;&gt;https://github.com/aisocietylab/Psy-IR-RecSys-SIGIR25/tree/main&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The tutorial focuses on three key psychological topics and sheds light on how they influence and manifest in the IR and RS ecosystem: &lt;em&gt;cognitive architectures, cognitive effects and biases, and personality and affect&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Understanding human cognition, decision-making processes, and psychological factors is important to &lt;strong&gt;enable user-centric retrieval and recommendation systems&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Large Language Models Do Not Simulate Human Psychology</title>
       <link>https://yningg.github.io/Blogs/posts/research/llm_psychology/</link>

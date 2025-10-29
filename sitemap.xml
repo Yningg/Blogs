@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yningg.github.io/Blogs/tags/-information-retrieval/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yningg.github.io/Blogs/categories/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/posts/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/posts/research/psychological_aspects/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/categories/psychology/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/tags/psychology/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/tags/recommendation-systems/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/tags/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yningg.github.io/Blogs/</loc>
+    <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/posts/research/llm_psychology/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/tags/llm/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yningg.github.io/Blogs/posts/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yningg.github.io/Blogs/categories/psychology/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yningg.github.io/Blogs/tags/psychology/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yningg.github.io/Blogs/tags/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yningg.github.io/Blogs/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yningg.github.io/Blogs/tags/large-language-model/</loc>
